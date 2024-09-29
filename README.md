@@ -1,6 +1,6 @@
 ## Hi there 👋
-![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
+![yunningtang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunningtang&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunningtang)](https://github.com/yunningtang/github-readme-stats)
 
 
 <!--
