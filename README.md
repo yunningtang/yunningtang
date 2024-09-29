@@ -1,8 +1,10 @@
-## Hello Wolrd🌎
+## Hello Wolrd!!!🌎
 
 ![yunningtang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunningtang&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunningtang)](https://github.com/yunningtang/github-readme-stats)
-[![Email](https://img.shields.io/badge/Email-contact%20me-blue)](mailto:tangyunning27@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact%20me-blue)](mailto:yn.tang@mail.utoronto.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-contact%20me-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/riley-t-7b29171b6/)
+
 
 
 
