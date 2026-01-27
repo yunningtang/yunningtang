@@ -11,8 +11,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunningtang&layout=compact&theme=default&title_color=2ea44f&text_color=333333&icon_color=007bff&bg_color=ffffff&hide_border=true&card_width=350" width="350" />
 
 ---
-<p align="left">
-  <a href="https://yunningtang.github.io/">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/yunningtang">LinkedIn</a> • 
-  [cite_start]<a href="mailto:yn.tang@mail.utoronto.ca">Email</a> 
 </p>
