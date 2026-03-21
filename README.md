@@ -1,14 +1,12 @@
-<!-- HEADER BANNER - diagonal split style matching portfolio cover -->
+<!-- HEADER BANNER - text anchored to left/dark side -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:111111,50:111111,51:f5f3ef,100:f5f3ef&height=220&section=header&text=Yunning%20'Riley'%20Tang&fontSize=38&fontColor=f5f3ef&fontAlignY=45&desc=Portfolio%202024–2025%20%7C%20Designer%20Technologist&descAlignY=65&descSize=14&descColor=cccccc&fontAlign=30" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:111111,50:111111,51:f5f3ef,100:f5f3ef&height=220&section=header&text=Yunning%20%27Riley%27%20Tang&fontSize=36&fontColor=ffffff&fontAlignY=45&fontAlign=25&desc=Portfolio%202024%E2%80%932025%20%7C%20Designer%20Technologist&descAlignY=65&descSize=13&descColor=aaaaaa&descAlign=25" />
 </div>
 
-<!-- Profile views badge aligned right like the portfolio top bar -->
+<!-- Profile views badge aligned right -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=yunningtang&color=2ea44f&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=yunningtang&color=2ea44f&style=flat-square&label=Profile+views" />
 </p>
-
----
 
 <!-- Quote block matching the italic left-side text in portfolio -->
 > *I build human-centered technologies that honor learner complexity through critical design practice, multimodal interaction, and reflective inquiry.*
@@ -40,7 +38,7 @@
 - 🔬 Researching **multimodal AI**, emotion recognition & HCI
 - 🎨 Building interactive experiences at the edge of tech and art
 - 📸 Street photography with **Ricoh GR III**
-- 🎮 Currently playing: *Slay the Spire 2* 
+- 🎮 Currently playing: *Slay the Spire 2*
 
 ---
 
@@ -116,21 +114,25 @@
 
 <p align="left">
   <a href="mailto:tangyunning27@gmail.com">
-    <img src="https://img.icons8.com/doodle/48/000000/gmail-new.png" width="45" title="Email"/>
+    <img src="https://img.icons8.com/doodle/48/gmail-new.png" width="45" title="Email"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/yunning-tang-7b29171b6/">
-    <img src="https://img.icons8.com/doodle/48/000000/linkedin.png" width="45" title="LinkedIn"/>
+    <img src="https://img.icons8.com/doodle/48/linkedin.png" width="45" title="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/rileyning/">
+    <img src="https://img.icons8.com/doodle/48/instagram-new.png" width="45" title="Instagram"/>
   </a>
   &nbsp;
   <a href="https://steamcommunity.com/id/sds949/">
-    <img src="https://img.icons8.com/doodle/48/000000/steam.png" width="45" title="Steam"/>
+    <img src="https://img.shields.io/badge/Steam-sds949-171a21?style=for-the-badge&logo=steam&logoColor=white" title="Steam"/>
   </a>
 </p>
 
 ---
 
-<!-- Footer wave matching the black base of portfolio -->
+<!-- Footer matching portfolio black base -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:f5f3ef,100:111111&height=80&section=footer&reversal=true" />
 </div>
