@@ -1,19 +1,13 @@
-<!-- HEADER BANNER - text anchored to left/dark side -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:111111,50:111111,51:f5f3ef,100:f5f3ef&height=220&section=header&text=Yunning%20%27Riley%27%20Tang&fontSize=36&fontColor=ffffff&fontAlignY=45&fontAlign=25&desc=Portfolio%202024%E2%80%932025%20%7C%20Designer%20Technologist&descAlignY=65&descSize=13&descColor=aaaaaa&descAlign=25" />
-</div>
+# Yunning 'Riley' Tang 🐇
 
-<!-- Profile views badge aligned right -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=yunningtang&color=2ea44f&style=flat-square&label=Profile+views" />
 </p>
 
-<!-- Quote block matching the italic left-side text in portfolio -->
 > *I build human-centered technologies that honor learner complexity through critical design practice, multimodal interaction, and reflective inquiry.*
 
 ---
 
-<!-- Identity badges -->
 <p align="left">
   <img src="https://img.shields.io/badge/Education-University%20of%20Toronto-002A5C?style=flat-square" />
   <img src="https://img.shields.io/badge/Role-Designer%20Technologist-FF6B6B?style=flat-square" />
@@ -25,7 +19,6 @@
 
 ---
 
-<!-- Keywords list - matching the right-side vertical list in portfolio -->
 **`Human–Computer Interaction`** · **`Educational Technology`** · **`Critical Computing`**  
 **`Urban Informatics`** · **`Affective Computing`** · **`Interactive Design`**  
 **`UX Research`** · **`Full-Stack Development`**
@@ -129,10 +122,3 @@
     <img src="https://img.shields.io/badge/Steam-sds949-171a21?style=for-the-badge&logo=steam&logoColor=white" title="Steam"/>
   </a>
 </p>
-
----
-
-<!-- Footer matching portfolio black base -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:f5f3ef,100:111111&height=80&section=footer&reversal=true" />
-</div>
