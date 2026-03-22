@@ -28,7 +28,7 @@
 ## 🙋 About Me
 
 - 🎓 Information Science @ **University of Toronto**
-- 🔬 Researching **multimodal AI**, emotion recognition & HCI
+- 🔬 Get into a lazy slump 
 - 🎨 Building interactive experiences at the edge of tech and art
 - 📸 Street photography with **Ricoh GR III**
 - 🎮 Currently playing: *Slay the Spire 2*
