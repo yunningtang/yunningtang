@@ -8,15 +8,6 @@
 
 ---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Education-University%20of%20Toronto-002A5C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Role-Designer%20Technologist-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-HCI%20%7C%20AI%20%7C%20Psychology-9C27B0?style=flat-square" />
-  <a href="https://steamcommunity.com/id/sds949/">
-    <img src="https://img.shields.io/badge/Steam-Waiting_for_Silksong-171a21?style=flat-square&logo=steam&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 **`Human–Computer Interaction`** · **`Educational Technology`** · **`Critical Computing`**  
