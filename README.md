@@ -6,9 +6,7 @@
 
 > *I build human-centered technologies that honor learner complexity through critical design practice, multimodal interaction, and reflective inquiry.*
 
----
 
----
 
 **`Human–Computer Interaction`** · **`Educational Technology`** · **`Critical Computing`**  
 **`Urban Informatics`** · **`Affective Computing`** · **`Interactive Design`**  
