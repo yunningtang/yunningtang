@@ -3,10 +3,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=yunningtang&color=2ea44f&style=flat-square&label=Profile+views" />
 </p>
-
 > *I build human-centered technologies that honor learner complexity through critical design practice, multimodal interaction, and reflective inquiry.*
-
-
 
 **`Human–Computer Interaction`** · **`Educational Technology`** · **`Critical Computing`**  
 **`Urban Informatics`** · **`Affective Computing`** · **`Interactive Design`**  
