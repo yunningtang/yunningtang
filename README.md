@@ -12,7 +12,7 @@
 
 ---
 
-## 🙋 About Me
+## 👩‍🎨 About Me
 
 - 🎓 Information Science @ **University of Toronto**
 - 🔬 Get into a lazy slump
