@@ -1,4 +1,4 @@
-<div align="center">
+content = r'''<div align="center">
 
 # Yunning 'Riley' Tang 🐇
 
@@ -24,126 +24,117 @@
 
 ## 🛠️ Tech Stack
 
-### 🧠 AI / ML
-
 <div align="center">
 
 <table>
 <tr>
+<td align="center" valign="top" width="33%">
 
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br/>
+### 🧠 AI / ML
+
+<table>
+<tr>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38"/><br/>
 <sub>Python</sub>
 </td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/><br/>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="38"/><br/>
 <sub>PyTorch</sub>
 </td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br/>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="38"/><br/>
 <sub>TensorFlow</sub>
 </td>
-
-<td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/><br/>
+</tr>
+<tr>
+<td align="center" width="88">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="38"/><br/>
 <sub>scikit-learn</sub>
 </td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/><br/>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="38"/><br/>
 <sub>OpenCV</sub>
 </td>
-
+<td align="center" width="88">
+&nbsp;
+</td>
 </tr>
 </table>
 
-</div>
-
----
+</td>
+<td align="center" valign="top" width="33%">
 
 ### 🌐 Frontend / Dev
 
-<div align="center">
-
 <table>
 <tr>
-
-<td align="center" width="95">
+<td align="center" width="88">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38"/><br/>
 <sub>React</sub>
 </td>
-
-<td align="center" width="95">
+<td align="center" width="88">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38"/><br/>
 <sub>Node.js</sub>
 </td>
-
-<td align="center" width="95">
+<td align="center" width="88">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38"/><br/>
 <sub>JavaScript</sub>
 </td>
-
-<td align="center" width="95">
+</tr>
+<tr>
+<td align="center" width="88">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38"/><br/>
 <sub>HTML</sub>
 </td>
-
-<td align="center" width="95">
+<td align="center" width="88">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38"/><br/>
 <sub>CSS</sub>
 </td>
-
-<td align="center" width="95">
+<td align="center" width="88">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38"/><br/>
 <sub>VS Code</sub>
 </td>
-
 </tr>
 </table>
 
-</div>
-
----
+</td>
+<td align="center" valign="top" width="33%">
 
 ### 🎨 Design / Creative
 
-<div align="center">
-
 <table>
 <tr>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"/><br/>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="38"/><br/>
 <sub>Figma</sub>
 </td>
-
-<td align="center" width="120">
-<img src="https://img.icons8.com/fluency/48/canva-app.png" width="48"/><br/>
+<td align="center" width="88">
+<img src="https://img.icons8.com/fluency/48/canva-app.png" width="38"/><br/>
 <sub>Canva</sub>
 </td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48"/><br/>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="38"/><br/>
 <sub>Photoshop</sub>
 </td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="48"/><br/>
+</tr>
+<tr>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="38"/><br/>
 <sub>Premiere Pro</sub>
 </td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38"/><br/>
 <sub>Git</sub>
 </td>
-
-<td align="center" width="120">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br/>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38"/><br/>
 <sub>GitHub</sub>
 </td>
+</tr>
+</table>
 
+</td>
 </tr>
 </table>
 
@@ -192,3 +183,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yunningtang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide_rank=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunningtang&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,CMake,Makefile" height="160"/>
 </div>
+'''
+path = "/mnt/data/README_grouped_tech_stack.md"
+with open(path, "w", encoding="utf-8") as f:
+    f.write(content)
+print(path)
