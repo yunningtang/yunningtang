@@ -66,19 +66,15 @@
         <tr>
           <td align="center" width="170">
             <img src="https://img.shields.io/badge/HCI-FF6B6B?style=for-the-badge"/><br/>
-            <sub>HCI</sub>
           </td>
           <td align="center" width="170">
             <img src="https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge"/><br/>
-            <sub>Machine Learning</sub>
           </td>
           <td align="center" width="170">
             <img src="https://img.shields.io/badge/Cognitive%20Science-9C27B0?style=for-the-badge"/><br/>
-            <sub>Cognitive Science</sub>
           </td>
           <td align="center" width="170">
             <img src="https://img.shields.io/badge/UX%20Design-00BCD4?style=for-the-badge"/><br/>
-            <sub>UX Design</sub>
           </td>
         </tr>
       </table>
