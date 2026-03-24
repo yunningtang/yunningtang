@@ -23,69 +23,18 @@
 ---
 
 ## 🛠️ Tech Stack
-### 💻 Language / IDE
+
+### 🧠 AI / ML
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="110">
+<td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br/>
 <sub>Python</sub>
 </td>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/><br/>
-<sub>C++</sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br/>
-<sub>JavaScript</sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>
-<sub>HTML</sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/>
-<sub>CSS</sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br/>
-<sub>VS Code</sub>
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-### 🧠 Domain Knowledge
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HCI-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cognitive%20Science-9C27B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UX%20Design-00BCD4?style=for-the-badge"/>
-
-</div>
-
----
-
-### 🤖 AI / ML Frameworks
-
-<div align="center">
-
-<table>
-<tr>
 
 <td align="center" width="120">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/><br/>
@@ -114,21 +63,41 @@
 
 ---
 
-### 🌐 Frontend
+### 🌐 Frontend / Dev
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br/>
+<td align="center" width="95">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38"/><br/>
 <sub>React</sub>
 </td>
 
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br/>
+<td align="center" width="95">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38"/><br/>
 <sub>Node.js</sub>
+</td>
+
+<td align="center" width="95">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38"/><br/>
+<sub>JavaScript</sub>
+</td>
+
+<td align="center" width="95">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38"/><br/>
+<sub>HTML</sub>
+</td>
+
+<td align="center" width="95">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38"/><br/>
+<sub>CSS</sub>
+</td>
+
+<td align="center" width="95">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38"/><br/>
+<sub>VS Code</sub>
 </td>
 
 </tr>
@@ -138,7 +107,7 @@
 
 ---
 
-### 🎨 Design & Creative
+### 🎨 Design / Creative
 
 <div align="center">
 
@@ -165,6 +134,16 @@
 <sub>Premiere Pro</sub>
 </td>
 
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>
+<sub>Git</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br/>
+<sub>GitHub</sub>
+</td>
+
 </tr>
 </table>
 
@@ -172,32 +151,38 @@
 
 ---
 
-### ⚙️ CI / CD & Tools
+### 🧠 Domain Knowledge
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>
-<sub>Git</sub>
-</td>
-
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br/>
-<sub>GitHub</sub>
-</td>
-
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br/>
-<sub>Docker</sub>
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/HCI-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cognitive%20Science-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UX%20Design-00BCD4?style=for-the-badge"/>
 
 </div>
+
+---
+
+## 📬 How to Reach Me
+
+<p align="center">
+  <a href="mailto:tangyunning27@gmail.com">
+    <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="42" title="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yunning-tang-7b29171b6/">
+    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="42" title="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/rileyning/">
+    <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="42" title="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://steamcommunity.com/id/sds949/">
+    <img src="https://img.icons8.com/3d-fluency/94/steam.png" width="42" title="Steam"/>
+  </a>
+</p>
 
 ---
 
@@ -207,25 +192,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yunningtang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide_rank=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunningtang&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,CMake,Makefile" height="160"/>
 </div>
-
----
-
-## 📬 How to Reach Me
-
-<p align="center">
-  <a href="mailto:tangyunning27@gmail.com">
-    <img src="https://img.icons8.com/3d-fluency/94/gmail.png" width="52" title="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yunning-tang-7b29171b6/">
-    <img src="https://img.icons8.com/3d-fluency/94/linkedin.png" width="52" title="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/rileyning/">
-    <img src="https://img.icons8.com/3d-fluency/94/instagram-new.png" width="52" title="Instagram"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://steamcommunity.com/id/sds949/">
-    <img src="https://img.icons8.com/3d-fluency/94/steam.png" width="52" title="Steam"/>
-  </a>
-</p>
