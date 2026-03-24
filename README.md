@@ -1,10 +1,14 @@
+<div align="center">
+
 # Yunning 'Riley' Tang 🐇
 
 > *I build human-centered technologies that honor learner complexity through critical design practice, multimodal interaction, and reflective inquiry.*
-> 
-<p align="right">
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=yunningtang&color=2ea44f&style=flat-square&label=Profile+views" />
 </p>
+
+</div>
 
 ---
 
@@ -20,54 +24,13 @@
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <th>Property</th>
-    <th>Data</th>
-  </tr>
-  <tr>
-    <td><b>Language / IDE</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Domain Knowledge</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HCI-FF6B6B?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Cognitive%20Science-9C27B0?style=flat-square"/>
-      <img src="https://img.shields.io/badge/UX%20Design-00BCD4?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI / ML Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Design Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>CI / CD & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+| Property | Data |
+|:---------|:-----|
+| **Language / IDE** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| **Domain Knowledge** | ![HCI](https://img.shields.io/badge/HCI-FF6B6B?style=for-the-badge) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge) ![Cognitive Science](https://img.shields.io/badge/Cognitive%20Science-9C27B0?style=for-the-badge) ![UX Design](https://img.shields.io/badge/UX%20Design-00BCD4?style=for-the-badge) |
+| **AI / ML Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
+| **Design Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
+| **CI / CD & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 
@@ -90,18 +53,18 @@
 
 <p align="left">
   <a href="mailto:tangyunning27@gmail.com">
-    <img src="https://img.icons8.com/doodle/48/gmail-new.png" width="45" title="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" title="Email"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/yunning-tang-7b29171b6/">
-    <img src="https://img.icons8.com/doodle/48/linkedin.png" width="45" title="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/rileyning/">
-    <img src="https://img.icons8.com/doodle/48/instagram-new.png" width="45" title="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"/>
   </a>
   &nbsp;
   <a href="https://steamcommunity.com/id/sds949/">
-    <img src="https://img.shields.io/badge/Steam-sds949-171a21?style=for-the-badge&logo=steam&logoColor=white" title="Steam"/>
+    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" title="Steam"/>
   </a>
 </p>
