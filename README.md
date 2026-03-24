@@ -17,7 +17,7 @@
 - 🎓 Information Science @ **University of Toronto**
 - 🔬 Get into a lazy slump
 - 🎨 Building interactive experiences at the edge of tech and art
-- 📸 Street photography with **Ricoh GR III**
+- 📸 Playing with perspective
 - 🎮 Currently playing: *Slay the Spire 2*
 
 ---
