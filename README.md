@@ -185,14 +185,6 @@
 
 ---
 
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yunningtang&theme=tokyo-night&hide_border=true&bg_color=00000000" />
-</div>
-
----
-
 ## 📬 How to Reach Me
 
 <p align="center">
