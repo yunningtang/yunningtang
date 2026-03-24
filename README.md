@@ -1,5 +1,3 @@
-content = r'''<div align="center">
-
 # Yunning 'Riley' Tang 🐇
 
 > *I build human-centered technologies that honor learner complexity through critical design practice, multimodal interaction, and reflective inquiry.*
