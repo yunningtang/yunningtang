@@ -23,156 +23,181 @@
 ---
 
 ## 🛠️ Tech Stack
+### 💻 Language / IDE
 
-<table align="center">
-  <tr>
-    <td width="220" valign="middle"><strong>Language / IDE</strong></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42"/><br/>
-            <sub>Python</sub>
-          </td>
-          <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/><br/>
-            <sub>C++</sub>
-          </td>
-          <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42"/><br/>
-            <sub>JavaScript</sub>
-          </td>
-          <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42"/><br/>
-            <sub>HTML</sub>
-          </td>
-          <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42"/><br/>
-            <sub>CSS</sub>
-          </td>
-          <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42"/><br/>
-            <sub>VS Code</sub>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td valign="middle"><strong>Domain Knowledge</strong></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center" width="170">
-            <img src="https://img.shields.io/badge/HCI-FF6B6B?style=for-the-badge"/><br/>
-          </td>
-          <td align="center" width="170">
-            <img src="https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge"/><br/>
-          </td>
-          <td align="center" width="170">
-            <img src="https://img.shields.io/badge/Cognitive%20Science-9C27B0?style=for-the-badge"/><br/>
-          </td>
-          <td align="center" width="170">
-            <img src="https://img.shields.io/badge/UX%20Design-00BCD4?style=for-the-badge"/><br/>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<table>
+<tr>
 
-  <tr>
-    <td valign="middle"><strong>AI / ML Frameworks</strong></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42"/><br/>
-            <sub>PyTorch</sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42"/><br/>
-            <sub>TensorFlow</sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42"/><br/>
-            <sub>scikit-learn</sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="42" height="42"/><br/>
-            <sub>OpenCV</sub>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br/>
+<sub>Python</sub>
+</td>
 
-  <tr>
-    <td valign="middle"><strong>Frontend</strong></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42"/><br/>
-            <sub>React</sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42"/><br/>
-            <sub>Node.js</sub>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/><br/>
+<sub>C++</sub>
+</td>
 
-  <tr>
-    <td valign="middle"><strong>Design &amp; Creative</strong></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42"/><br/>
-            <sub>Figma</sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://img.icons8.com/fluency/48/canva-app.png" width="42" height="42"/><br/>
-            <sub>Canva</sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="42" height="42"/><br/>
-            <sub>Photoshop</sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="42" height="42"/><br/>
-            <sub>Premiere Pro</sub>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br/>
+<sub>JavaScript</sub>
+</td>
 
-  <tr>
-    <td valign="middle"><strong>CI / CD &amp; Tools</strong></td>
-    <td>
-      <table>
-        <tr>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42"/><br/>
-            <sub>Git</sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42"/><br/>
-            <sub>GitHub</sub>
-          </td>
-          <td align="center" width="110">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42"/><br/>
-            <sub>Docker</sub>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>
+<sub>HTML</sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/>
+<sub>CSS</sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br/>
+<sub>VS Code</sub>
+</td>
+
+</tr>
 </table>
+
+</div>
+
+---
+
+### 🧠 Domain Knowledge
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HCI-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cognitive%20Science-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UX%20Design-00BCD4?style=for-the-badge"/>
+
+</div>
+
+---
+
+### 🤖 AI / ML Frameworks
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/><br/>
+<sub>PyTorch</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br/>
+<sub>TensorFlow</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/><br/>
+<sub>scikit-learn</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/><br/>
+<sub>OpenCV</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🌐 Frontend
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br/>
+<sub>React</sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br/>
+<sub>Node.js</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🎨 Design & Creative
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"/><br/>
+<sub>Figma</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://img.icons8.com/fluency/48/canva-app.png" width="48"/><br/>
+<sub>Canva</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48"/><br/>
+<sub>Photoshop</sub>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="48"/><br/>
+<sub>Premiere Pro</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+### ⚙️ CI / CD & Tools
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>
+<sub>Git</sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br/>
+<sub>GitHub</sub>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><br/>
+<sub>Docker</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
