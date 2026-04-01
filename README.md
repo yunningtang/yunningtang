@@ -175,9 +175,4 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunningtang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide_rank=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunningtang&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,CMake,Makefile" height="160"/>
-</div>
