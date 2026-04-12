@@ -1,6 +1,6 @@
 # Yunning 'Riley' Tang 🐇
 
-> *I build human-centered technologies that honor learner complexity through critical design practice, multimodal interaction, and reflective inquiry.*
+> *Play!*
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=yunningtang&color=2ea44f&style=flat-square&label=Profile+views" />
