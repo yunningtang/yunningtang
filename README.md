@@ -1,6 +1,6 @@
 # Yunning 'Riley' Tang 🐇
 
-> *Play!*
+> *State of being*
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=yunningtang&color=2ea44f&style=flat-square&label=Profile+views" />
