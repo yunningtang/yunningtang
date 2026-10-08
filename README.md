@@ -1,10 +1,3 @@
-# Yunning 'Riley' Tang 🐇
-
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=yunningtang&color=2ea44f&style=flat-square&label=Profile+views" />
-</p>
-
 </div>
 
 
