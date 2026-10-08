@@ -1,6 +1,5 @@
 # Yunning 'Riley' Tang 🐇
 
-> *State of being*
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=yunningtang&color=2ea44f&style=flat-square&label=Profile+views" />
@@ -8,13 +7,6 @@
 
 </div>
 
----
-
-## 👩‍🎨 About Me
-
-- 🔬 Get into a lazy slump
-
----
 
 ## 🛠️ Tech Stack
 
