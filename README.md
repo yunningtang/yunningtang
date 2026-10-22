@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=140&section=header&text=Yunning%20Tang&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,55:1e0b3c,100:00d4ff&height=160&section=header" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=15&duration=2800&pause=1200&color=A18CD1&center=true&vCenter=true&width=360&lines=Hi,+I'm+Yunning+%E2%9C%A6;Designing+where+humans+meet+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=380&lines=%3E+hello%2C+world_;%3E+human+%C3%97+machine_;%3E+design+%C2%B7+code+%C2%B7+ml_" />
 </p>
 
 <h3 align="center">T E C H &nbsp; S T A C K</h3>
@@ -22,4 +22,4 @@
   </sub>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,45:1e0b3c,100:000000&height=90&section=footer" width="100%" />
