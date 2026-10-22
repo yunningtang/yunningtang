@@ -1,4 +1,8 @@
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=140&section=header&text=Yunning%20Tang&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=15&duration=2800&pause=1200&color=A18CD1&center=true&vCenter=true&width=360&lines=Hi,+I'm+Yunning+%E2%9C%A6;Designing+where+humans+meet+AI" />
+</p>
 
 <h3 align="center">T E C H &nbsp; S T A C K</h3>
 
@@ -17,3 +21,5 @@
     <a href="https://steamcommunity.com/id/sds949/">Steam</a>
   </sub>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=80&section=footer" width="100%" />
