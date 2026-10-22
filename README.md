@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,55:1e0b3c,100:00d4ff&height=160&section=header" width="100%" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2200&pause=900&color=00E5FF&center=true&vCenter=true&width=380&lines=%3E+hello%2C+world_;%3E+human+%C3%97+machine_;%3E+design+%C2%B7+code+%C2%B7+ml_" />
-</p>
+<img src="./assets/header.svg" width="100%" />
 
 <h3 align="center">T E C H &nbsp; S T A C K</h3>
 
@@ -22,4 +18,4 @@
   </sub>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,45:1e0b3c,100:000000&height=90&section=footer" width="100%" />
+<img src="./assets/footer.svg" width="100%" />
